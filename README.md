@@ -1,5 +1,7 @@
 This is a very basic python program, and I have not bug tested it. It's pretty simple calculations, but if there's any issues let me know on discord (0494)
 
+Use the shorthand for terrain types, i.e. PR for prairies.
+
 ## Program
 In both releases and the dist folder I have my current executable. The .exe was created with pyinstaller, and you're welcome to use it. 
 
