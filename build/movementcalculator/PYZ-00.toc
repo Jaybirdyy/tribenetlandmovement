@@ -1,4 +1,4 @@
-('C:\\Python\\build\\movementcalculator\\PYZ-00.pyz',
+('C:\\Users\\herob\\OneDrive\\Documents\\GitHub\\tribenetlandmovement\\build\\movementcalculator\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\herob\\AppData\\Local\\Python\\pythoncore-3.15-arm64\\Lib\\__future__.py',
    'PYMODULE'),
